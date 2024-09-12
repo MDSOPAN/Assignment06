@@ -1,0 +1,8 @@
+#DrJava configuration file
+#Thu Sep 12 12:30:28 BDT 2024
+font.main = Monospaced-BOLD-20
+font.line.numbers = Monospaced-BOLD-20
+key.delete.next = [shift DELETE]
+key.delete.previous = [shift BACK_SPACE]
+last.dir = C:\\Users\\24301250
+last.interactions.dir = C:\\Users\\24301250
